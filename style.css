@@ -57,21 +57,3 @@ body {
     text-shadow: 0 0 8px rgba(56, 189, 248, 0.4);
 }
 
-/* Content */
-.content {
-    flex: 1; /* Pushes footer to the bottom */
-    padding: 3rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-/* Footer */
-.footer {
-    background: rgba(15, 23, 42, 0.95);
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    padding: 1.5rem;
-    text-align: center;
-    font-size: 0.875rem;
-    color: #94a3b8; /* Slate 400 */
-}
